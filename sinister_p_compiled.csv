@@ -1,0 +1,8 @@
+word_lc,cos_dist,count,root_word,lemma_count
+euphemism,0.31229,1.0,syn_sinister,1
+elocution,0.29052,1.0,syn_sinister,1
+foreground,0.27082,1.0,syn_sinister,1
+proprietor,0.2323,1.0,syn_sinister,3
+coherence,0.22245,1.0,syn_sinister,1
+radiate,0.21533,1.0,syn_sinister,1
+dismount,0.20303,1.0,syn_sinister,1
